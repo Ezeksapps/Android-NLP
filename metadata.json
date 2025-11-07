@@ -1,0 +1,198 @@
+{
+  "lite": {
+    "ar-en": {
+      "checksum": "3b5f45687fbd9196bd2597a1a81fba658e7f974cef229bcf86b6545a8803f3b0",
+      "size": 30863341
+    },
+    "bg-en": {
+      "checksum": "4a033e2c284d79969ba81aa5566b02e7fdfb32050d06d1af91a5081b64b223a6",
+      "size": 22833406
+    },
+    "ca-en": {
+      "checksum": "a6ef06fb2e085bafd20814f6f4a4d8c6f99c2d8602382179f7eec4154718d28a",
+      "size": 23187431
+    },
+    "cs-en": {
+      "checksum": "620ca9283970ee642ff09d6aa93941a1bb495802eefb2e4e2b4c5bef05318a17",
+      "size": 23231937
+    },
+    "de-en": {
+      "checksum": "f9cb90fe49c0db7145a82302d053b2602120d7a13dfa9517cee13727b5bd8054",
+      "size": 30772510
+    },
+    "en-ar": {
+      "checksum": "39faf386b8a47c8fea7245e768ebc23aa591d4183e6b4d4e787be0df0a2522ac",
+      "size": 32620384
+    },
+    "en-bg": {
+      "checksum": "edcca491354a11c7173c7007203b64dc179b262d8f9f8eb63ebaabccc37dfb51",
+      "size": 23856056
+    },
+    "en-ca": {
+      "checksum": "678d329db40c5bef6ad93b9634ac4282c48a4b0f2d2945762aaf062021b11980",
+      "size": 23576526
+    },
+    "en-cs": {
+      "checksum": "b85ec3f5ce844f3d6efa21c54c4461bef89708d44778cfc3a79c08ce0486c456",
+      "size": 31618013
+    },
+    "en-de": {
+      "checksum": "8c77e6871c3678e702d56ec2cefd73b42b6cb91373caba8511d76fe148750d92",
+      "size": 23395307
+    },
+    "en-es": {
+      "checksum": "ebfbb7eeba390e36c4773f6b965f74b5aac5d7f67889fd849996d8863c885021",
+      "size": 23098851
+    },
+    "en-et": {
+      "checksum": "fcd8b4d68f4ba19e818aee3ba6a798bab269fb16cfe7f6595aaa7a821225139a",
+      "size": 23357412
+    },
+    "en-fi": {
+      "checksum": "4c62cc5e8f0b7459f25a651172980e35a8797ed85fbe3ce74e23087301e8c2a4",
+      "size": 22990763
+    },
+    "en-fr": {
+      "checksum": "e71df9daf993b3bddb2f36702b3f610a71141491ba1d73d5c5dd56a299004930",
+      "size": 23444548
+    },
+    "en-hu": {
+      "checksum": "0e5ef5bd7515e86e2bf8e19a2b52b462403d4c9e683cf09133f992aa6bd395ea",
+      "size": 24098086
+    },
+    "en-is": {
+      "checksum": "a7d81a81927f6b818e58a1840d0e8897118cef10922f30f2fbe72277773ab088",
+      "size": 22992434
+    },
+    "en-it": {
+      "checksum": "15a5dc748f89f601e6d9b85a2d2a1a6b85190db0083aeb04f3a017fe1988e530",
+      "size": 24287810
+    },
+    "en-ja": {
+      "checksum": "c9b99158f56051b10d74d497cbfc9cd31c551ccd35d504ec34741a38237ae9c8",
+      "size": 44470831
+    },
+    "en-ko": {
+      "checksum": "d4c5ae1543702a1bb758f56a48bad8908b35ddff8ce1eca224ee796cd72795a2",
+      "size": 46127249
+    },
+    "en-lt": {
+      "checksum": "087980db38f8d8a613d946b726765972aeecc0292022e4c47f8e8803cf7040bb",
+      "size": 23262279
+    },
+    "en-lv": {
+      "checksum": "4f9e6dbba4b82e803ff339f18d8834d38669ef918c5ad8638f5f51484d135350",
+      "size": 24117297
+    },
+    "en-nl": {
+      "checksum": "20b3e7a9c682bcb8724b41dc1b89fed1885c5906d273f87de2c57c7587e888d3",
+      "size": 23786466
+    },
+    "en-pl": {
+      "checksum": "31a4ac9cdf706edfd6e4ae47f872369a5ed4cf047ec8f8729af698aaa31de9c7",
+      "size": 22987227
+    },
+    "en-pt": {
+      "checksum": "6a006603ef22adc3cf63f51781df409768ecf4ca03455876d69d2e3155d12335",
+      "size": 23740675
+    },
+    "en-ru": {
+      "checksum": "60b39ddd5970b822f23c0bdd026656b470be39bfef6421ca9d4013d1278e33d6",
+      "size": 31096134
+    },
+    "en-sk": {
+      "checksum": "4eed48ad9167f036af09b20ea72ac667a098465be783ce052d1258cecf00a222",
+      "size": 23301170
+    },
+    "en-sl": {
+      "checksum": "7c5fd8b88dbf135993569ecae80387a26989d72de1f2f27114ceada67d831bcd",
+      "size": 23060774
+    },
+    "en-uk": {
+      "checksum": "a83284490de933e5166669b3e546ba9596c020cca5186e7173fd543e8c52b751",
+      "size": 23293314
+    },
+    "en-zh": {
+      "checksum": "d23917efa5d4d358a24d26aa45c2a2427e16cd1f1f6fd01ca95be26d41e3a142",
+      "size": 30911228
+    },
+    "es-en": {
+      "checksum": "11d49ea081571800bf749db1e45a25155b0e97ce407dc5bfcfcf27769ee9c27a",
+      "size": 23688695
+    },
+    "et-en": {
+      "checksum": "7f9edb67ee222a1729cf95c9a6c61a18bc97be2862a0e39a7283bd9c388b99a1",
+      "size": 23191557
+    },
+    "fi-en": {
+      "checksum": "8035571e36be8ef09419f937b672e374b492854109e696a1e1cc37a6c8b13ee6",
+      "size": 23344180
+    },
+    "fr-en": {
+      "checksum": "d07851850fad9b0dbba0d29ea1359f58a82cccfe4ee589047f8713d884a17217",
+      "size": 23574795
+    },
+    "hu-en": {
+      "checksum": "cd374c9c010e43bf6ccd5e65a26daf8f85e0bb56fa86515fa347d5b65eef5f7c",
+      "size": 13591326
+    },
+    "is-en": {
+      "checksum": "5a7eb58a720c3fca05dcf3a7e1db50d920bff71f9432eddd08bc996cfec00f5b",
+      "size": 23636506
+    },
+    "it-en": {
+      "checksum": "432a39bb366f0881919655cdcaed6c060af756f880ada3bb13811fb24387389e",
+      "size": 23693765
+    },
+    "ja-en": {
+      "checksum": "0db7d215b15429f47972f1c1372538e4b10b9e0a3e5f6831bba8df55bf7614e5",
+      "size": 43785910
+    },
+    "ko-en": {
+      "checksum": "a1406e7210fb464f3614a559b0b6f944573b7d533fbab3e7cb078fc1475dd762",
+      "size": 43796441
+    },
+    "lt-en": {
+      "checksum": "0c85233bfddd1255b09786c1639e0e8ff83465cbdd65e95b88c7d5daee1dbed7",
+      "size": 12972109
+    },
+    "lv-en": {
+      "checksum": "b467fb111db5bcdd8b6b5876778e9295c90f17a538c3637e9f67bb32458532a2",
+      "size": 13092461
+    },
+    "nl-en": {
+      "checksum": "735dfe42c25ae9b2e21c7d1e461b7f5bd1cb84bba0aeb02eab5148606ccaa75c",
+      "size": 23054621
+    },
+    "pl-en": {
+      "checksum": "94df2e8fc17cb9570ece58485ef02af7bce2e6274ea7ea7dbc6a8a7ce1f1fe80",
+      "size": 23041252
+    },
+    "pt-en": {
+      "checksum": "b5536139e56ca497189bc94a6a3f471cb1d88cc04da268c72f6eb9a718429a13",
+      "size": 23106000
+    },
+    "ru-en": {
+      "checksum": "035fd7b5b923c8214f786c08bb34a7ac3d9573765a0d14a63257bc298f331465",
+      "size": 13032184
+    },
+    "sk-en": {
+      "checksum": "90e42f15e926d2ac69c78bd994f2b46d3e7a37bbb7fb1da9bd0c9e9c38fde1b7",
+      "size": 13219036
+    },
+    "sl-en": {
+      "checksum": "cba8470db0ae9b6b61cab255eb0c8be2ee97d9e4eb558b6807345f9e01ce15b8",
+      "size": 24115470
+    },
+    "uk-en": {
+      "checksum": "3b9c54cf024a94606d2362cafa92817ce103ddbd969d8cee58a8111a55cd03bd",
+      "size": 13091633
+    },
+    "zh-en": {
+      "checksum": "1f323290859b388a90162a7a18919c9c88b73f297c0b35da8114d5fb54829a9d",
+      "size": 45048254
+    }
+  },
+  "full": {
+  }
+}
