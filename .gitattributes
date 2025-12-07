@@ -1,0 +1,5 @@
+full/*.zip filter=lfs diff=lfs merge=lfs -text
+full/en-ja.zip filter=lfs diff=lfs merge=lfs -text
+full/es-en.zip filter=lfs diff=lfs merge=lfs -text
+full/ja-en.zip filter=lfs diff=lfs merge=lfs -text
+full/en-es.zip filter=lfs diff=lfs merge=lfs -text
