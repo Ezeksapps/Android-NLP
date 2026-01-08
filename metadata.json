@@ -1,5 +1,5 @@
 {
-  "lite": {
+  "models": {
     "en-es": {
       "checksum": "f1256864a082fdbc2a979d34b210d2d952a8ef74cbda96785c8897da5621c00c",
       "size": 68494998
@@ -15,24 +15,6 @@
     "ja-en": {
       "checksum": "4dcfc6995facc1b41618752bff2e66a423765a27ab19c1e4cbdf063b5d36d0f0",
       "size": 64663701
-    }
-  },
-  "full": {
-    "en-es": {
-      "checksum": "08048e7af139d0748a3def5dfb576a5832210418759121a0b30ad7f133a05e9b",
-      "size": 290198897
-    },
-    "en-ja": {
-      "checksum": "e2dd8b1333430ae0f8d33d928b8d4d75e4ff4b79c44dbf33b84635fcc22af72c",
-      "size": 369252897
-    },
-    "es-en": {
-      "checksum": "0dbe6785077c03660abb9eb2f2bb54ec572107b27257480294079301dd3c7350",
-      "size": 289721861
-    },
-    "ja-en": {
-      "checksum": "49b0fec8cf0bb0cd2f41acd038db10031e6577cd40ccd0868bc7c99b532e83c5",
-      "size": 281825672
     }
   }
 }
